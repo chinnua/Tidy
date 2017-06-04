@@ -1,0 +1,16 @@
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\Tidy.exe.config
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\Tidy.exe
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\Tidy.pdb
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\PreMailer.Net.dll
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.csprojResolveAssemblyReference.cache
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.Form1.resources
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.Properties.Resources.resources
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.csproj.GenerateResource.Cache
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.exe
+c:\users\chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.pdb
+C:\Users\Chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\AngleSharp.dll
+C:\Users\Chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\AngleSharp.xml
+C:\Users\Chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\TidyManaged.dll
+C:\Users\Chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\TidyManaged.xml
+C:\Users\Chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\bin\Debug\libtidy.dll
+C:\Users\Chinnu\documents\visual studio 2015\Projects\Tidy\Tidy\obj\Debug\Tidy.csproj.ResolveComReference.cache
